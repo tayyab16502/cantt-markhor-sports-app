@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698856259389",
+    "project_id": "tayyab-khan-ba243",
+    "storage_bucket": "tayyab-khan-ba243.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698856259389:android:8c0443cfe12a26cbf2cf54",
+        "android_client_info": {
+          "package_name": "com.example.tayyabkhan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWi6u1dlpa4HnmBIwQKcpqn-wOuIPLg0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
